@@ -1,28 +1,34 @@
-# Mogana kumaran Sivaraman — Portfolio Website V7
+# Mogana kumaran Sivaraman — Data & AI Engineering Portfolio
 
-Professional static portfolio rebuilt around an executive + academic design system.
+Professional portfolio for **Mogana kumaran Sivaraman**, focused on Data & AI Engineering, enterprise data platforms, research, publications, professional service, and technical writing.
 
-## What changed in V7
-- Exact public name: **Mogana kumaran Sivaraman**
-- GitHub identity added: **https://github.com/moganakumaran**
-- GitHub public profile image used as the current portrait placeholder
-- Navigation simplified to Home / About / Research / Publications / Professional Service / Industry Impact / Writing / Contact
-- Peer Review + Judging + TPC consolidated into **Professional Service**
-- Hackathon evidence separated into primary records and organizer/third-party evidence
-- Detailed peer-review table placed behind an accessible disclosure to keep the page readable
-- Research progression redesigned as one sustained program
-- Research architecture rendered as a responsive system flow
-- Publications switched to an academic bibliography-style layout
-- Writing reorganized into editorial categories
-- GitHub added to schema.org `sameAs`, header identity links, About, Contact, and footer
-- Old `peer-review.html` and `speaking-judging.html` URLs retained as redirects
+## Live website
 
-## Before production launch
-1. Production URL is `https://moganakumaran.github.io/portfolio/`. Canonical, Open Graph, JSON-LD, sitemap, and robots metadata are configured for this URL.
-2. Replace the GitHub avatar with a dedicated professional headshot if preferred.
-3. Add canonical DOI/publisher/co-author metadata only after verifying official records.
-4. Add role-specific reviewer/TPC listings whenever an official page publicly names Mogana kumaran Sivaraman.
-5. Add quantitative industry impact only where disclosure is permitted and evidence exists.
+**https://moganakumaran.github.io/portfolio/**
 
-## Local preview
-Run a static server from this directory, for example `python -m http.server 8000`, then open `http://localhost:8000`.
+## Focus areas
+
+- Data & AI Engineering
+- Enterprise data platforms and lakehouse architecture
+- Data-platform reliability and operational intelligence
+- Agentic data systems and trustworthy AI
+- Research, publications, peer review, and technical judging
+
+## Professional profiles
+
+- LinkedIn: https://www.linkedin.com/in/mogana-kumaran-s-8ab02026/
+- Google Scholar: https://scholar.google.com/citations?user=x5o-nY0AAAAJ&hl=en
+- GitHub: https://github.com/moganakumaran
+- Medium: https://medium.com/@moganakumaran
+
+## Website sections
+
+- About
+- Research
+- Publications
+- Professional Service
+- Industry Impact
+- Technical Writing
+- Contact
+
+The website is published through GitHub Pages from the `main` branch of this repository.
