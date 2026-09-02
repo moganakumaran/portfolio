@@ -40,7 +40,7 @@ V7 was rendered and reviewed at desktop and mobile widths after implementation.
 - DOI, publisher, co-author, and final venue metadata remain explicitly pending canonical verification rather than being inferred.
 
 ## Production items still required
-1. Replace `YOUR-DOMAIN.com` after choosing the final domain.
+1. Canonical deployment URL configured: `https://moganakumaran.github.io/portfolio/`.
 2. Decide whether to keep the public GitHub avatar or replace it with a dedicated professional headshot hosted locally.
 3. Add canonical DOI / publisher links after publication-by-publication verification.
 4. Add additional public reviewer / program committee pages whenever they name Mogana kumaran Sivaraman directly.

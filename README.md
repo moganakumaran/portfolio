@@ -18,7 +18,7 @@ Professional static portfolio rebuilt around an executive + academic design syst
 - Old `peer-review.html` and `speaking-judging.html` URLs retained as redirects
 
 ## Before production launch
-1. Replace every `YOUR-DOMAIN.com` occurrence after selecting the final domain.
+1. Production URL is `https://moganakumaran.github.io/portfolio/`. Canonical, Open Graph, JSON-LD, sitemap, and robots metadata are configured for this URL.
 2. Replace the GitHub avatar with a dedicated professional headshot if preferred.
 3. Add canonical DOI/publisher/co-author metadata only after verifying official records.
 4. Add role-specific reviewer/TPC listings whenever an official page publicly names Mogana kumaran Sivaraman.
