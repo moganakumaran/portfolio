@@ -1,6 +1,6 @@
 # Mogana kumaran Sivaraman — Data & AI Engineering Portfolio
 
-Professional portfolio for **Mogana kumaran Sivaraman**, focused on Data & AI Engineering, enterprise data platforms, research, publications, professional service, and technical writing.
+Professional portfolio for **Mogana kumaran Sivaraman**, focused on enterprise Data & AI Engineering, large-scale data platforms, technical publications, professional service, and practitioner-focused writing.
 
 ## Live website
 
@@ -8,11 +8,11 @@ Professional portfolio for **Mogana kumaran Sivaraman**, focused on Data & AI En
 
 ## Focus areas
 
-- Data & AI Engineering
-- Enterprise data platforms and lakehouse architecture
+- Enterprise Data & AI Engineering
+- Cloud data platforms and lakehouse architecture
 - Data-platform reliability and operational intelligence
 - Agentic data systems and trustworthy AI
-- Research, publications, peer review, and technical judging
+- Technical publications, peer review, and applied AI judging
 
 ## Professional profiles
 
@@ -24,7 +24,7 @@ Professional portfolio for **Mogana kumaran Sivaraman**, focused on Data & AI En
 ## Website sections
 
 - About
-- Research
+- Technical Work
 - Publications
 - Professional Service
 - Industry Impact
